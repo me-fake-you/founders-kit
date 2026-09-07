@@ -104,5 +104,13 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Freemium</td>
 <td><a href="https://gptimage2.asia/">gptimage2.asia</a></td>
 </tr>
+<tr>
+<td>ClearSheet</td>
+<td>Document Data Service</td>
+<td>Turns invoices, purchase orders, and freight documents into clean, review-ready Excel workbooks.</td>
+<td>Bookkeeping, logistics, wholesale, and small operations teams</td>
+<td>Paid</td>
+<td><a href="https://me-fake-you.github.io/clearsheet-offers/">me-fake-you.github.io/clearsheet-offers</a></td>
+</tr>
 </tbody>
 </table>
